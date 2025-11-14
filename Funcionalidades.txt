@@ -1,2 +1,5 @@
 Criação do SOCO (Sistema de Ocorrência Constant Order)
+
+Objetivo: O Sistema de Ocorrência Constant Order foi criado para instaurar ou restaurar a ordem em espaços — independente de ser público ou privado. O SOCO é executado em instituições escolares e até instituições voltadas para a justiça criminal.
+
 Funcionalidades: Registro de Indivíduos, Registro de Ocorrências e visualização de histórico, Data de sanções, Avaliação dos usuários, Efetuar relatório de comportamento e sobre nós.
