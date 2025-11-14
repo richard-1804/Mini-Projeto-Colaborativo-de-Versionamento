@@ -1,1 +1,7 @@
+Tecnologias utilizada para o desenvolvimento e efetuação do Sistema de Ocorrências Constant Order:
 
+1. Visual Studio Code (VSCode): Aplicações de conhecimentos computacionais, como JavaScrip, CSS e HTML. Necessário para a formatação do código base.
+
+2. MySQL: Database padrão, armazenamento de dados dentro de tal programa. Necessário para a coleta de dados dos formulários do código — ou o código no geral.
+
+3. Hugging Face: Criar e implementar APIs. Necessário para conectar os servidores de database e o código principal.
