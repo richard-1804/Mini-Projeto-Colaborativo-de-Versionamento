@@ -1,1 +1,2 @@
-
+Criação do SOCO (Sistema de Ocorrência Constant Order)
+Funcionalidades: Registro de Indivíduos, Registro de Ocorrências e visualização de histórico, Data de sanções, Avaliação dos usuários, Efetuar relatório de comportamento e sobre nós.
