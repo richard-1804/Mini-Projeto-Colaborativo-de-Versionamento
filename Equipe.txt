@@ -1,5 +1,5 @@
 Membro 1 - Daniel Richard: Criador deste repositório e dos arquivos de funcionalidades, tecnologias e equipe. Responsável por revisar os PRs dos colegas, além aprovar e realizar os Merges futuros.
 
-Membro 2 - Mateus Chaves: Responsável por criar uma Branch feature-funcionalidades, fazer 2 commits nesta branch e abrir um Pull Request para a main.
+Membro 2 - Mateus Chaves: Responsável por criar uma Branch feature-funcionalidades, efetuar 2 commits nesta branch e abrir um Pull Request para a main.
 
 Membro 3 - João Pedro Fagundes: Responsável por criar uma Branch feature-tecnologias, fazer 2 commits nesta branch e abrir um Pull Request para a main.
